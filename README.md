@@ -1,6 +1,4 @@
 
-# Chinese-Sokoban
-=======
 # Dynasty Maze: The Emperor's Escape
 ![alt text](screenshot.png "Dynasty Maze")
 ## About
