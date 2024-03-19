@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chinese-Sokoban
 =======
 # Dynasty Maze: The Emperor's Escape
@@ -66,5 +66,3 @@ Image sourced from [Graphite Unity Sokoban project](https://github.com/peteschmi
 - 熊猫办公. (n.d.). Q版三国人物图片素材 [Q-version Three Kingdoms character image materials]. Retrieved [Date of Access], from https://www.tukuppt.com/sopng/qbansanguorenwu.html
 
 
-
->>>>>>> dd8a90e (Initial commit)
