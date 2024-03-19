@@ -1,6 +1,5 @@
 
 # Dynasty Maze: The Emperor's Escape
-![alt text](screenshot.png "Dynasty Maze")
 ## About
 "Dynasty Maze: The Emperor's Escape" combines the strategic depth of
 Sokoban with the historical intrigue of Huarong Dao, offering a unique
